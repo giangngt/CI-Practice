@@ -31,4 +31,5 @@ public class CalcTest
     {
         assertTrue ("Division incorrect", 3 == Calc.divide (15, 5));
     }
+
 }
